@@ -63,7 +63,7 @@ https://productivitypanda.pages.dev/
 This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
-For support or inquiries, please contact Sudhan S. at sudhanssudhan83@gmail.com.  
+For support or inquiries, please contact Sudhan S. at sudhanssudhan83@gmail.com......  
 LinkedIn: [Sudhan S.](https://www.linkedin.com/in/sudhan-s-a76b8b297/)
 
 ---
